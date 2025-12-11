@@ -17,7 +17,6 @@ I'm looking for opportunities where I can grow, create impact, and advance my ca
 - 🌍 Based in **Algeria**
 - 🖥️ Portfolio: **[hamza-safwan.me](https://hamza-safwan.me/)**
 - ✉️ Email: **hassanih97@gmail.com**
-- 🚀 Currently working on: **[worlds-dwich42.com](http://worlds-dwich42.com/)**
 - 🧠 Learning: **React, TailwindCSS, Flask**
 - 👀 Interested in: **Full-Stack Web Development**
 - 🌱 Growing skills: **JavaScript, PHP, HTML, CSS, Linux**
