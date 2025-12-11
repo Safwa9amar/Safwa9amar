@@ -15,7 +15,7 @@ I'm looking for opportunities where I can grow, create impact, and advance my ca
 ## 🌐 About Me
 
 - 🌍 Based in **Algeria**
-- 🖥️ Portfolio: **[hamza-safwan.me](https://hamza-safwan.me/)**
+- 🖥️ Portfolio: **[hamza-safwan.me](https://hamza-safwan.netlify.app/)**
 - ✉️ Email: **hassanih97@gmail.com**
 - 🧠 Learning: **React, TailwindCSS, Flask**
 - 👀 Interested in: **Full-Stack Web Development**
